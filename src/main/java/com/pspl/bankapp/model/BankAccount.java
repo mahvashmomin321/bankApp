@@ -2,6 +2,8 @@ package com.pspl.bankapp.model;
 
 import com.pspl.bankapp.specification.BankSpecification;
 
+
+//Bank account class
 public abstract class BankAccount implements BankSpecification {
 	
 	private int accId;
